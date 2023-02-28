@@ -4,12 +4,11 @@ The Community Rating of Moments is a platform where users can review Moments on 
 
 ## Features
 *Users can create an account to review and rate Moments
-* Users can view Moments and their ratings
-Users can search for Moments by name or category
-Users can leave comments and additional information about a Moment
-Users can edit or delete their own reviews
-Admins can approve or reject user reviews
-Admins can add or remove Moments
+*Users can view Moments and their ratings
+*Users can leave comments and additional information about a Moment
+*Users can edit or delete their own reviews
+*Admins can approve or reject user reviews
+*Admins can add or remove Moments
 ## Technologies Used
 Flow blockchain
 Cadence smart contract language
