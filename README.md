@@ -3,8 +3,8 @@
 The Community Rating of Moments is a platform where users can review Moments on a star rating and add comments or additional information about the Moment. The goal of the platform is to provide the community with a useful guide for purchasing Moments by allowing users to share their experiences and opinions.
 
 ## Features
-Users can create an account to review and rate Moments
-Users can view Moments and their ratings
+*Users can create an account to review and rate Moments
+* Users can view Moments and their ratings
 Users can search for Moments by name or category
 Users can leave comments and additional information about a Moment
 Users can edit or delete their own reviews
